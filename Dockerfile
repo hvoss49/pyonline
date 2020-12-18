@@ -4,7 +4,7 @@
 # Run docker image
 #       sudo docker run -d -p 3000:3000 --rm --name pyonline hvoss49/pyonline:latest
 #####################################################################################
-# Latex-Online container
+# Python-Online container
 
 MAINTAINER Herbert Voss herbert@voss.mobi
 

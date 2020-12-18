@@ -3,7 +3,7 @@ var fs = require('fs');
 var path = require('path');
 var request = require('request');
 
-var baseUrl = 'http://localhost:2700';
+var baseUrl = 'http://localhost:3000';
 if (process.env.LATEXHOST)
     baseUrl = process.env.LATEXHOST;
 
